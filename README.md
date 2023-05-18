@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi ! Im Mehdi and im Software Engineer. i have background in android studio (java , kotlin). I'm interested in<br>JavaScript and its libraries and frameworks like ReactJs and VueJs. I love progress and being up-to-date in my<br>field of work.
+Hi! I'm Mehdi, a computer engineering graduate and a skilled Front-end Developer. With a passion for technology and a focus on JavaScript, I have experience working with popular frameworks such as React.js, Vue.js.. Additionally, I have a background in Android development, I take pride in my ability to write clean, efficient, and maintainable code, and I am committed to staying up-to-date with the latest industry trends and best practices.
 
 
 ## 🌐 Socials:
